@@ -1,15 +1,15 @@
 [
-  {
-    "enable": true,
-    "alias": "张三",
-    "phone": "18888888888",
-    "password": "123456...",
-    "randomLocation": false,
-    "deviceType": "Xiaomi|Mi 13|13",
-    "deviceId": "设备ID",
-    "address": "打卡地址",
-    "longitude": "位置经度",
-    "latitude": "位置纬度",
-    "pushKey": "推送Key"
-  }
+  {
+    "enable": true,
+    "alias": "李浩宇",
+    "phone": "17656192719",
+    "password": "LHY17656192719",
+    "deviceType": "vivo|vivo s9|13",
+    "deviceId": "46d0130fe9b745b194d4b43dc4baa55298c6",
+    "randomLocation": true,
+    "address": "河南省郑州市惠济区山新区",
+    "longitude": "113.616730",
+    "latitude": "34.865673",
+    "pushKey": "a34c93f92353429cbddca0f2f407c120"
+  }
 ]
