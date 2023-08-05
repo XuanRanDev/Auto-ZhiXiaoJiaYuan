@@ -26,7 +26,6 @@ s.mount('https://', HTTPAdapter(max_retries=10))
 s.keep_alive = False
 
 headers = {
-    "os": " ",
     "phone": "Xiaomi|Mi 13|12",
     "appVersion": "52",
     "Sign": "Sign",
