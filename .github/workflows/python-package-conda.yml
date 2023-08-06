@@ -1,0 +1,15 @@
+[
+  {
+    "enable": true,
+    "alias": "张帅",
+    "phone": "18568837836",
+    "password": "Zs145015",
+    "deviceType": "vivo|X60|11",
+    "deviceId": "1edac40d0ef74eceb0239dfdc6ce38b427a0",
+    "randomLocation": true,
+    "address": "中国河南省新乡市红旗区东明路东明商厦",
+    "longitude": "113.946861",
+    "latitude": "35.290581",
+    "pushKey": "c1f0083cb3214c8e9274a677c9b72b7a"
+  }
+]
